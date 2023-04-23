@@ -1,0 +1,277 @@
+1	A5
+1	A1
+1	A3
+1	A4
+1	Coupé/Quattro
+1	R8
+2	ADO16
+3	2000C
+3	3 Series
+3	3200CS
+3	326
+3	507
+3	i3
+3	M1
+3	X5
+4	EB110
+4	Type 101
+4	Type 18
+4	Type 30
+4	Type 35
+4	Veyron
+5	Apollo
+5	Centurion
+5	Electra
+5	Invicta
+5	LeSabre
+5	Riviera
+5	Special
+5	Wildcat
+6	Allanté
+6	Cimarron
+6	De Ville
+6	ELR
+7	Camaro
+7	Caprice
+7	Cavalier
+7	Citation
+7	Corvair
+7	Corvette
+7	Cruze
+7	Impala
+7	Monza
+7	Opala
+7	Suburban
+7	Vega
+7	Volt
+8	minivans
+8	Newport
+8	TC
+8	Town and Country
+9	DMC-12
+10	Aries/Plymouth
+10	Coronet
+10	Stealth
+10	Viper
+11	
+12	Enzo
+12	166S
+12	250GT
+12	250GT Lusso
+12	275
+12	288 GTO
+12	308 GTB
+12	333 SP
+12	360
+12	365 GTB/4
+12	512S
+12	575M Maranello
+12	Dino
+12	F355
+12	F40
+12	F430
+12	F50
+12	Mondial
+12	Testarossa
+13	124
+13	126
+13	127
+13	131
+13	500
+13	Panda
+13	Punto
+13	Uno
+13	X1/9
+14	Karma
+15	Aerostar
+15	CE14 Platform
+15	Cortina
+15	Crown Victoria
+15	D186 Platform
+15	Escort
+15	E-Series
+15	Explorer
+15	Falcon
+15	Fiesta
+15	Focus
+15	F-Series
+15	Granada
+15	GT
+15	LTD
+15	Model A
+15	Model T
+15	Mustang
+15	Ranchero
+15	Ranger
+15	RS200
+15	Taurus
+15	Tempo
+15	Thunderbird
+15	Transit
+16	Standard
+17	Polonez
+18	A Platform
+18	B Platform
+18	D Platform
+18	J Platform
+18	W Platform
+19	J Deluxe
+20	Ambassador
+21	Commodore
+22	Accord
+22	Civic
+22	CR-V
+22	Fit
+22	NSX
+22	Prelude
+22	S2000
+22	S500
+22	S600
+22	S800
+23	Super
+24	Accent
+24	Elantra
+24	Sonata
+25	C-Type
+25	D-Type
+25	E-Type
+25	Mark 1
+25	Mark 2
+25	XF
+25	XJ
+25	XJ220
+25	XJR-15
+25	XJS
+25	XK
+25	XK120
+25	XK150
+25	X-Type
+26	Cherokee XJ
+26	CJ
+26	Wrangler
+27	350GT
+27	400GT
+27	Aventador
+27	Diablo
+27	Huracán
+27	Islero
+27	Jalpa
+27	Silhouette
+28	LFA
+29	Continental
+29	Town Car
+29	Versailles
+30	Elise
+31	Biturbo
+31	MC12
+32	Rancho
+33	57
+34	3
+34	6
+34	Familia
+34	MPV
+34	MX-5
+34	R360
+34	RX-7
+34	RX-8
+35	12C
+35	F1
+35	P1
+36	C-Class
+36	CLK GTR
+36	S-Class
+36	SL-Class
+36	SLR McLaren
+36	W123
+36	W201
+37	Carisma
+37	Galant
+37	GTO
+37	L200
+37	Lancer
+37	Pajero
+38	Ital
+38	Marina
+38	Minor
+39	Statesman
+40	Be-1
+40	Figaro
+40	Leaf
+40	Maxima
+40	Micra
+40	S-Cargo
+40	Sentra
+40	Tiida/Versa
+40	Z-cars
+41	88
+41	Aurora
+41	Cutlass
+42	Eight
+43	Huayra
+44	Esperante
+44	Roadster
+45	P50
+45	Trident
+46	204
+46	205
+46	206
+47	Fury
+47	Voyager
+48	Astre
+48	Aztek
+48	Bonneville
+48	Firebird
+48	Grand Am
+49	356
+49	911
+49	956
+49	962
+49	968
+49	Boxster
+49	Carrera GT
+49	Cayenne
+50	Land Rover
+50	Evoque
+51	4
+51	Alpine GTA/A610
+51	Clio
+51	Sport Spider
+51	Twingo
+51	Zoe
+52	S7
+53	360
+53	Legacy
+54	Swift
+55	Model S
+55	Model X
+55	Roadster
+56	2000GT
+56	86/Scion FR-S
+56	Camry
+56	Celica
+56	Corolla
+56	Curren
+56	Hilux
+56	Ipsum
+56	Land Cruiser
+56	Prius
+56	RAV4
+56	SC
+56	Sports 800
+56	Supra
+57	Beetle
+57	Gol
+57	Golf
+57	Jetta
+57	Passat
+58	140
+58	164
+58	200 Series
+58	300 Series
+58	700 Series
+58	850
+58	Amazon
+58	Duett
+58	P1800
+58	PV444/544
+58	S40/V40

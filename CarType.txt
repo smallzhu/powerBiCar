@@ -1,0 +1,8 @@
+Four door
+Two door
+Sedan
+Coupe
+Convertible
+Full Size
+Mini Van
+Luxury
