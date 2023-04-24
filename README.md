@@ -1,6 +1,6 @@
 # Car Price Prediction
-I have created a mock SQL DB for US car registrations and their owners. I created the SQL DB through the CarRegistrationsTableCreation.sql file and then populated that database through the Program.cs file and supporting .txt files.</br>
-![](images\CarPrice.png)
+car price pridiction use SQL Power bi and c#.</br>
+![](images/CarPrice.png)
 
 
 
